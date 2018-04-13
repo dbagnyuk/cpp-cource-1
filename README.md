@@ -1,3 +1,3 @@
 # Infopulse University
 # Programming C++
-# Fundamentals C++ programming
+# Fundamental C++ programming
